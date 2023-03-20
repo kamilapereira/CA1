@@ -1,17 +1,17 @@
 # Continuous Assessment 1
 
-Student Name: Your name
-Student ID: 123456
-Course: Your course
+Student Name: Kamila Pereira
+Student ID: 25113
+Course: Science in Computing
 
 ## Requirement Checklist
 
-- [ ] Home page
-    - [ ] Show profile photo: With atleast 5dp separation from the layout
-    - [ ] Your Details: horizontally centered in layout
-        - [ ] Name
-        - [ ] Course
-        - [ ] Github Icon (SVG Vector) and username
+- [x] Home page
+    - [x] Show profile photo: With atleast 5dp separation from the layout
+    - [x] Your Details: horizontally centered in layout
+        - [x] Name
+        - [x] Course
+        - [x] Github Icon (SVG Vector) and username
     - [ ] Four buttons — Education, Skills, Achievements and Exit
         - [ ] vertically stacked
         - [ ] same size
